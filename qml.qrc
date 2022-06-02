@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>views/DashBoardScreen.qml</file>
+        <file>views/SignInScreen.qml</file>
+        <file>views/NavigationBar.qml</file>
+    </qresource>
+</RCC>
